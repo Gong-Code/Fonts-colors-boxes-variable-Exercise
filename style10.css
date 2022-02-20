@@ -1,0 +1,8 @@
+p{
+    border-width: 6px;
+    border-top: dashed;
+    border-right: double;
+    border-bottom: dotted;
+    border-left: solid;
+    color: green;
+}

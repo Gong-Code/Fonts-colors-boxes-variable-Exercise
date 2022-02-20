@@ -1,0 +1,9 @@
+div{
+    border-width: 2px;
+    border-top: dashed;
+    border-bottom: dotted;
+    border-right: dashed;
+    border-left: dotted;
+
+    color: purple;
+}

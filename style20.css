@@ -1,0 +1,18 @@
+:root{
+    --background--color: #ffffff;
+    --color: #1e90ff;
+    --border: 2px solid #1e90ff;
+}
+
+.container{
+    color: var(--color);
+    background-color: var(--background--color);
+    padding: 15px;
+}
+
+button{
+    background-color: var(--background--color);
+    color: var(--color);
+    border: var(--border);
+    padding: 5px;
+}
